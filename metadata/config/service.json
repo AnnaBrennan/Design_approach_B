@@ -1,7 +1,7 @@
 {
   "_id": "service",
   "_type": "config.service",
-  "name": "Form title (approach B)",
+  "name": "MoJ Leavers Form (with Save and return)",
   "phase": "alpha",
   "phaseText": "Service phase text goes here"
 }

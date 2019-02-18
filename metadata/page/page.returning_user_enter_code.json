@@ -21,6 +21,10 @@
   "steps": [
     "page.returning_user_resend_email",
     "page.form_page_XX",
+    "page.manager",
+    "page.location",
+    "page.technology",
+    "page.check",
     "page.sign-out"
   ],
   "url": "/zreturning_user_enter_code"

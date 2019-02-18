@@ -1,6 +1,72 @@
 {
   "_id": "page.form_page_XX",
-  "_type": "page.form",
-  "heading": "Form page X (multiple question template)",
-  "url": "form_page_XX"
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.form_page_XX--radios.auto_name__7",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__12",
+          "_type": "radio",
+          "hint": "Dave Rogers",
+          "label": "HQ - Platforms & Architecture",
+          "value": "auto_value__12"
+        },
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__13",
+          "_type": "radio",
+          "hint": "Helen Mott",
+          "label": "HQ - Central Digital",
+          "value": "auto_value__13"
+        },
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__14",
+          "_type": "radio",
+          "hint": "Amie Alekna",
+          "label": "HQ - Security & Privacy",
+          "value": "auto_value__14"
+        },
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__15",
+          "_type": "radio",
+          "hint": "Luke Crosby",
+          "label": "LAA",
+          "value": "auto_value__15"
+        },
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__16",
+          "_type": "radio",
+          "hint": "David Marshall",
+          "label": "CICA",
+          "value": "auto_value__16"
+        },
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__17",
+          "_type": "radio",
+          "hint": "Jane Fallon",
+          "label": "OPG",
+          "value": "auto_value__17"
+        },
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__18",
+          "_type": "radio",
+          "hint": "Carol Teece",
+          "label": "HMPPS & Digital Studio",
+          "value": "auto_value__18"
+        },
+        {
+          "_id": "page.form_page_XX--radios.auto_name__7--radio.auto_value__19",
+          "_type": "radio",
+          "hint": "Richard Matthews",
+          "label": "CTS & Service Ops",
+          "value": "auto_value__19"
+        }
+      ],
+      "legend": "Business Unit",
+      "name": "auto_name__7"
+    }
+  ],
+  "sectionHeading": "Department details",
+  "url": "returning_user_unit"
 }

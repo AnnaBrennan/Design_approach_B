@@ -1,12 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "components": [
-    {
-      "_id": "page.start--content",
-      "_type": "content"
-    }
-  ],
+  "body": "We’ll ask you:\r\n\r\n- your leaving date\r\n- your business unit\r\n- your manager’s details\r\n- where you work\r\n- what technology you use",
   "extraComponents": [
     {
       "_id": "page.start--content--2",
@@ -14,10 +9,11 @@
       "html": "[Return to an existing application](/sign-in)\r\n\r\nContinue completing an application you haven't submitted."
     }
   ],
-  "heading": "Form title (approach B)",
-  "lede": "Add intro copy relating to the form in question. Blurb about what the form is for.",
+  "heading": "MoJ Leavers form",
+  "lede": "Let us know you’re leaving",
   "steps": [
-    "page.form_first_question"
+    "page.leaver_details",
+    "page.unit"
   ],
   "url": "/"
 }
