@@ -1,0 +1,8 @@
+{
+  "_id": "page.sign-out",
+  "_type": "page.content",
+  "body": "ALEX, CAN WE CHANGE THE LABEL OF THE BUTTON TO \"START AGAIN\" INSTEAD OF \"CONTINUE\"?",
+  "heading": "You have signed out",
+  "lede": "You can return to a saved form by returning to the start of the service.",
+  "url": "sign-out"
+}
