@@ -1,0 +1,72 @@
+{
+  "_id": "page.unit--2",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.unit--2--radios.auto_name__21",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__23",
+          "_type": "radio",
+          "hint": "Dave Rogers",
+          "label": "HQ - Platforms & Architecture",
+          "value": "auto_value__23"
+        },
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__24",
+          "_type": "radio",
+          "hint": "Helen Mott",
+          "label": "HQ - Central Digital",
+          "value": "auto_value__24"
+        },
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__25",
+          "_type": "radio",
+          "hint": "Amie Alekna",
+          "label": "HQ - Security & Privacy",
+          "value": "auto_value__25"
+        },
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__26",
+          "_type": "radio",
+          "hint": "Luke Crosby",
+          "label": "LAA",
+          "value": "auto_value__26"
+        },
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__27",
+          "_type": "radio",
+          "hint": "David Marshall",
+          "label": "CICA",
+          "value": "auto_value__27"
+        },
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__28",
+          "_type": "radio",
+          "hint": "Jane Fallon",
+          "label": "OPG",
+          "value": "auto_value__28"
+        },
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__29",
+          "_type": "radio",
+          "hint": "Carol Teece",
+          "label": "HMPPS & Digital Studio",
+          "value": "auto_value__29"
+        },
+        {
+          "_id": "page.unit--2--radios.auto_name__21--radio.auto_value__30",
+          "_type": "radio",
+          "hint": "Richard Matthews",
+          "label": "CTS & Service Ops",
+          "value": "auto_value__30"
+        }
+      ],
+      "legend": "Business Unit",
+      "name": "auto_name__21"
+    }
+  ],
+  "sectionHeading": "Single question page",
+  "url": "unit"
+}

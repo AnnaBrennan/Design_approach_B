@@ -16,7 +16,8 @@
     "page.confirm_mobile_number",
     "page.check_your_mobile",
     "page.resend_security_code",
-    "page.form_page_X"
+    "page.form_page_X",
+    "page.unit--2"
   ],
   "url": "mobile_number"
 }

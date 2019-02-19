@@ -1,6 +1,13 @@
 {
   "_id": "page.form_page_X",
   "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.form_page_X--radios.auto_name__20",
+      "_type": "radios",
+      "name": "auto_name__20"
+    }
+  ],
   "heading": "Business Unit",
   "sectionHeading": "Department details",
   "url": "form_page_X"
